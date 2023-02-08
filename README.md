@@ -14,6 +14,10 @@ This is an implementation of contrastive PCA in Python; that was described in [t
 
 - To conclude, if we have multiple datasets, and we're interested in discovering the sources of variation that are enriched in one dataset relative to the other, we can use contrastive PCA.
 
+#### PCA Graph
+
 ![](./img/index1.png)
+
+#### CPCA Graph, With $\alpha$ = 4
 
 ![](./img/index2.png)
